@@ -1,0 +1,8 @@
+= crypt
+:toc: preamble
+
+crypt is an Rust CLI which goal is to abstract the JWS/JWE/JWKS generation.
+
+== Motivation
+
+Being new to the Rust world (and low-level programming), I wanted to create a useful tool that could help me in my programing every day life. Having built some libraries related to JWS/JWT/JWKS with Node.js in the past, I chose to migrate it in rust. This is also the opportunity to use the knowledge gathered from https://clig.dev/, and discover `clap` tool.
